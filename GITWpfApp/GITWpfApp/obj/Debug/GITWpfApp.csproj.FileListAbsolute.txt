@@ -1,1 +1,13 @@
 C:\_Projects\temp\git-test\git-test\GITWpfApp\GITWpfApp\bin\Debug\GITWpfApp.exe.config
+C:\_Projects\temp\git-test\git-test\GITWpfApp\GITWpfApp\bin\Debug\GITWpfApp.exe
+C:\_Projects\temp\git-test\git-test\GITWpfApp\GITWpfApp\bin\Debug\GITWpfApp.pdb
+C:\_Projects\temp\git-test\git-test\GITWpfApp\GITWpfApp\obj\Debug\GITWpfApp.csprojResolveAssemblyReference.cache
+C:\_Projects\temp\git-test\git-test\GITWpfApp\GITWpfApp\obj\Debug\MainWindow.baml
+C:\_Projects\temp\git-test\git-test\GITWpfApp\GITWpfApp\obj\Debug\MainWindow.g.cs
+C:\_Projects\temp\git-test\git-test\GITWpfApp\GITWpfApp\obj\Debug\App.g.cs
+C:\_Projects\temp\git-test\git-test\GITWpfApp\GITWpfApp\obj\Debug\GITWpfApp_MarkupCompile.cache
+C:\_Projects\temp\git-test\git-test\GITWpfApp\GITWpfApp\obj\Debug\GITWpfApp.g.resources
+C:\_Projects\temp\git-test\git-test\GITWpfApp\GITWpfApp\obj\Debug\GITWpfApp.Properties.Resources.resources
+C:\_Projects\temp\git-test\git-test\GITWpfApp\GITWpfApp\obj\Debug\GITWpfApp.csproj.GenerateResource.Cache
+C:\_Projects\temp\git-test\git-test\GITWpfApp\GITWpfApp\obj\Debug\GITWpfApp.exe
+C:\_Projects\temp\git-test\git-test\GITWpfApp\GITWpfApp\obj\Debug\GITWpfApp.pdb
